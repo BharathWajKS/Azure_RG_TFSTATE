@@ -1,3 +1,3 @@
-resource_group_name = "Clarium-Project-TERRAFORM-STATE-TEST"
+resource_group_name = "Clarium-TERRAFORM-Cloud-STATE-TEST"
 location            = "East US"
 environment         = "Development"
